@@ -9,7 +9,12 @@ estimator. </p>
 
 
 ## Performance:
-<img src=project3/Images/1.png height="489" width="567" > <p></p>
-<img src=project3/Images/2.png height="489" width="567" > <p></p>
-<img src=project3/Images/3.png height="489" width="567" > <p></p>
+<img src=project3/Images/1.png > <p></p>
+<img src=project3/Images/2.png > <p></p>
+<img src=project3/Images/3.png > <p></p>
+<img src=project3/Images/4.png > <p></p>
+<img src=project3/Images/5.png > <p></p>
+<img src=project3/Images/6.png > <p></p>
+<img src=project3/Images/7.png > <p></p>
+<img src=project3/Images/8.png > <p></p>
 
