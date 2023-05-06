@@ -9,13 +9,15 @@ estimator. </p>
 
 
 ## Performance:
+
+### Figure 3: Trajectory optimization for 3 different trajectories on a single map
 <img src=project3/Images/1.png > <p></p>
 <img src=project3/Images/2.png > <p></p>
 <img src=project3/Images/3.png > <p></p>
-Figure 3: Trajectory optimization
 
+#### Figure 4: Dense Waypoints (without any optimiziation)
 <img src=project3/Images/4.png > <p></p>
-Figure 4: Dense Waypoints (without any optimiziation)
 
+#### Figure 5: Optimized trajectory using RDP algorithm along with Minimum Snap
 <img src=project3/Images/5.png > <p></p>
-Figure 5: Optimized trajectory using RDP algorithm along with Minimum Snap
+
